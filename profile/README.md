@@ -1,12 +1,12 @@
-## Hi there 👋
+# ezcon.foundation
 
-<!--
+👋 **Xin chào!**
 
-**Here are some ideas to get you started:**
+Chào mừng bạn đến với hồ sơ GitHub chính thức của **ezcon.foundation**, một sáng kiến tại Việt Nam tập trung vào việc xây dựng các giải pháp blockchain sáng tạo tích hợp KYC để xác thực người dùng, tạo ra môi trường giao dịch tài sản số phù hợp với chính sách. Nhiệm vụ của chúng tôi là tạo ra cơ sở hạ tầng phi tập trung mạnh mẽ, an toàn và có khả năng mở rộng.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Về Chúng Tôi
+ezcon.foundation cam kết thúc đẩy công nghệ blockchain với trọng tâm là bảo mật, tuân thủ và hiệu suất. Hãy truy cập trang web của chúng tôi tại [https://ezcon.foundation](https://ezcon.foundation) để biết thêm chi tiết.
+
+## Tham Gia Cùng Chúng Tôi
+- Theo dõi chúng tôi để cập nhật: [https://ezcon.foundation](https://ezcon.foundation)
+- Tham gia cộng đồng và đóng góp cho các dự án mã nguồn mở của chúng tôi!
